@@ -1,4 +1,4 @@
 ### Hi, I am Gabriel 👋
- I'm in learning!!
+  I'm in learning. 📘🤓
 
 
