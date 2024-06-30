@@ -1,0 +1,21 @@
+git init - iniciar o git no repositório
+
+git status - relatório para saber quais arquivos já 	foram upados {
+		untracked files - Não estão ainda no git
+	};
+
+git add "Nome do arquivo" - subir o arquivo
+git add . - add todos os arquivos no GitHub
+
+git commit -m "oque foi atualizado na versão do arquivo"
+ "-m e mensagen":
+
+configurações do git 
+git config --global user.email "gabrielsribeiro9999@gmail.com"
+
+git config --global user.name "gabriel ribeiro"
+o nome e para que os outros saibam quem fez o comit
+
+git remote add origin - para onde vai fazer os push
+
+git push - posta no GitHub os arquivos
