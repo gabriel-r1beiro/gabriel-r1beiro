@@ -1,5 +1,5 @@
 
-<p align="center">Bem vindo a minha pagina! Sou Gabriel, desenvolvedor Front-End JR</p>&nbsp;
+<p align="center">Bem vindo a minha pagina! Sou Gabriel, desenvolvedor Front-End JR </p>&nbsp;
 
 ## My Skills
 
